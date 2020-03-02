@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Highrise</string>
+    <string name="no_movies_found_try_again_later">No movies found. Try again later!</string>
+    <string name="something_went_wrong_tap_here_to_try_again">Something went wrong. Tap here to try again!</string>
+    <string name="score_out_of">/10</string>
+</resources>
